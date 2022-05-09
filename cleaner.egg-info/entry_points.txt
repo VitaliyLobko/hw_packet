@@ -1,0 +1,2 @@
+[console_scripts]
+cleaner = cleaner.main:main

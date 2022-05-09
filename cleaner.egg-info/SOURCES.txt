@@ -1,0 +1,10 @@
+setup.py
+cleaner/__init__.py
+cleaner/file_parser.py
+cleaner/main.py
+cleaner/normalize.py
+cleaner.egg-info/PKG-INFO
+cleaner.egg-info/SOURCES.txt
+cleaner.egg-info/dependency_links.txt
+cleaner.egg-info/entry_points.txt
+cleaner.egg-info/top_level.txt
